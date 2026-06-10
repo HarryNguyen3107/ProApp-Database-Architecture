@@ -33,20 +33,3 @@ Based on the SQL data analysis, three primary business strategies were formulate
 1.  **Incentivize Dual-Service Usage:** Introduce discounts or bundled packages to encourage customers to purchase materials alongside hiring labor.
 2.  **Enhance Labor Satisfaction:** Implement stricter vetting processes and training programs for tradespeople to improve the low customer satisfaction scores tied to labor tasks.
 3.  **Diversify Revenue Streams:** Increase task-related commissions or introduce premium add-on services to reduce the platform's heavy financial reliance on membership fees.
-
----
-
-## Recommended Visual Assets for Your Portfolio Page
-To make your portfolio page visually engaging, I highly recommend including screenshots or recreated graphics of the following elements found in your document:
-
-**1. The Database Architecture (Image)**
-* **Label:** Image 1: Pro App ER diagram.
-* **Position in Source:** Located under Section 1.1.2 (Interactions) and right before Section 1.2.1.
-* **Why use it:** It instantly proves your ability to conceptualize complex data structures and visually maps the entire project.
-
-**2. Key Query Output Tables**
-*Rather than showing all the raw dummy data tables from Phase 1, focus on the analytical outputs from Phase 2 to highlight your business acumen.*
-* **Revenue Proportion Table:** Located in Section 2.2.4. Shows the stark contrast between Task Fee Revenue and Membership Revenue.
-* **Proportion Between Different Task Types Table:** Located in Section 2.2.5. Demonstrates how user demand is split across the platform.
-* **Top 5 Most Popular Materials Table:** Located in Section 2.2.6. Shows your ability to extract top-selling metrics (PVC Pipes, Copper Wiring, etc.).
-* **Top 3 Tradespeople by Revenue Table:** Located in Section 2.2.10. Great for showing how you can identify high-value users on a platform.
